@@ -4,7 +4,7 @@
 
 Medico Guide( A multidimensional hybrid personal medical assistant)
 
-## TEAM MEMBERS👩‍💻�
+## TEAM MEDICODERS👩‍💻�
 
 AYUSHI KHARE<br>
 CHHAVI TRIVEDI<br>
