@@ -4,6 +4,13 @@
 
 Medico Guide( A multidimensional hybrid personal medical assistant)
 
+## TEAM MEMBERS
+
+AYUSHI KHARE
+CHHAVI TRIVEDI
+MEGHNA DAS
+PRAGYA PARMITA SAMBODHI
+
 ## TECHNOLOGIES USED
 
 IDEATION- GOOGLE SLIDES
