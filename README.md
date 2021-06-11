@@ -1,4 +1,4 @@
-# IncubateIND--Healthcare-App
+# IncubateIND-Hackathon- Medico Guide App
 
 ## APP NAME❤
 
